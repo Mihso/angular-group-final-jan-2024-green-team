@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "baseHref": "https://mihso.github.io/angular-group-final-jan-2024-green-team/",
             "outputPath": "dist/client",
             "index": "src/index.html",
             "main": "src/main.ts",
